@@ -4,6 +4,7 @@
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=24)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/jahonov)
 
 A production-quality Android application that detects mobile network operators and monitors internet connection states in real-time. Built with **Clean Architecture**, **MVVM**, **Jetpack Compose**, and **Hilt** for dependency injection.
 
@@ -144,7 +145,7 @@ uz.jahonov.defineoperator/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/DefineOperatorTest.git
+   git clone https://github.com/JahonovAsilbek/DefineOperatorTest.git
    cd DefineOperatorTest
    ```
 
@@ -247,9 +248,19 @@ limitations under the License.
 
 **Asilbek Jahonov**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@JahonovAsilbek](https://github.com/JahonovAsilbek)
+- LinkedIn: [Asilbek Jahonov](https://linkedin.com/in/asilbekjahonov)
+- Email: asilbekjahonov2001@gmail.com
+
+## ☕ Support
+
+If you find this project helpful and want to support its development, you can buy me a coffee!
+
+<a href="https://buymeacoffee.com/jahonov" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+</a>
+
+Your support helps me create more open-source projects and educational content. Thank you! 🙏
 
 ## 🙏 Acknowledgments
 
@@ -267,7 +278,7 @@ limitations under the License.
 
 ## 🐛 Known Issues
 
-None currently. Please report issues in the [Issues](https://github.com/yourusername/DefineOperatorTest/issues) section.
+None currently. Please report issues in the [Issues](https://github.com/JahonovAsilbek/DefineOperatorTest/issues) section.
 
 ## 🗺️ Roadmap
 
