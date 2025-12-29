@@ -2,7 +2,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <!-- Required for reading phone state and SIM card information -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- Required for accessing network state -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- Required for accessing Wi-Fi state -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
     <application
+        android:name=".NetworkOperatorApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
